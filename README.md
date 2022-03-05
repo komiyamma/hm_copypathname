@@ -7,7 +7,7 @@
 
 # 概要
 エキスプローラーのファイルやディレクトリで右クリックすると「パス名をコピー」と出すツール
-秀丸の[HmSharedOutputPane](https://github.com/komiyamma/hm_copypathname) が導入されていれば、秀丸のアウトプット枠にもコピーした文字列を出力する。
+秀丸の[HmSharedOutputPane](https://github.com/komiyamma/hm_sharedoutputpane) が導入されていれば、秀丸のアウトプット枠にもコピーした文字列を出力する。
 
 # 使い方
 setup.inf を右クリしてインストール。
